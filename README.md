@@ -69,7 +69,7 @@ Interested in **AI systems, agentic automation, robotics intelligence, and scala
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tg1106&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
