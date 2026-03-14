@@ -6,10 +6,7 @@ Focused on designing **end-to-end AI solutions** — from data pipelines and mod
 Interested in **AI systems, agentic automation, robotics intelligence, and scalable ML products.**
 
 ---
-
-# 🚀 Tech Stack
-
-# 🧠 AI / Machine Learning
+# 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -18,44 +15,20 @@ Interested in **AI systems, agentic automation, robotics intelligence, and scala
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 
----
-
-# 🤖 AI Automation / Agent Systems
-
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-AI-orange?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-007ACC?style=for-the-badge)
-
----
-
-# ⚙️ Backend / Systems
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-# 💻 Programming
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-# 🗄 Databases
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
----
-
-# ☁️ Cloud / Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
