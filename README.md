@@ -67,6 +67,12 @@ Interested in **AI systems, agentic automation, robotics intelligence, and scala
 
 ---
 
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 # 🧩 Projects I'm Building
 
 • AI Support Ticket Classification  
