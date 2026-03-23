@@ -3,9 +3,16 @@
 
 ---
 
-<img align="right" alt="anime-coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<!-- ANIME BANNER -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/6e/5a/2e/6e5a2e89c6fbdcb2a2d7e4f2c0a2b1e3.gif" width="100%" />
+</p>
+
+---
 
 ## 🧬 About Me (Character Profile)
+
+<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ```python
 class AIEngineer:
@@ -13,7 +20,7 @@ class AIEngineer:
         self.name = "Tharun"
         self.role = "CS Student | Future AI Architect"
         self.location = "India 🇮🇳"
-        self.powers = [
+        self.skills = [
             "Machine Learning",
             "Deep Learning",
             "LLMs",
@@ -21,9 +28,8 @@ class AIEngineer:
             "Automation"
         ]
         self.languages = ["Python", "C++"]
-        self.current_mission = "Building AI systems that actually matter"
 
-    def level_up(self):
-        return "Grinding knowledge... unlocking new skills 🚀"
+    def mindset(self):
+        return "Stay consistent. Outwork everyone. ⚡"
 
 me = AIEngineer()
