@@ -14,7 +14,7 @@
 ## ✦ About Me &nbsp;`<< 自己紹介 >>`
 
 ```yaml
-name        : tg1106
+name        : Tharun Gopinath
 pronouns    : he/him
 location    : India 🇮🇳
 education   : Computer Science Student
