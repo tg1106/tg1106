@@ -5,10 +5,11 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Anime+Enjoyer+%E2%9C%A8;Always+Learning+%F0%9F%93%96" />
+  <img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+%F0%9F%96%A5%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Anime+Otaku+%E2%9C%A8;Always+Learning+%F0%9F%93%96;n8n+Automation+%E2%9A%99%EF%B8%8F;OpenCV+%2B+YOLO+Vision+%F0%9F%91%81%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%8F;Grad+at+VIT%2C+Chennai+%F0%9F%8E%93" />
 </div>
-
 <br/>
+
 
 ---
 
